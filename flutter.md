@@ -103,6 +103,9 @@ Or if you like watching and learning:
 
 [https://www.youtube.com/watch?v=8yJKWy9G9ew](https://www.youtube.com/watch?v=8yJKWy9G9ew)
 
-## Submissions
+## Submissionsshubham.jaiswal.ece21@itbhu.ac.in
+Name: Shubham Jaiswal
+Roll No: 21095110
+Email: 
 [Repo Link](https://github.com/Shubham9455/birthdays-app-using-flutter)
 
