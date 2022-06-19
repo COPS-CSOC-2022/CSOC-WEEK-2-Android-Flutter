@@ -88,3 +88,4 @@ All details have been provided in the README.md file.
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 <!-- - Raina Jain - [Hangman](https://github.com/RainaJain5/Hangman) [APK](https://github.com/RainaJain5/Hangman/blob/master/Hangman.apk) -->
+- Rituraj Barai - [BIRTHDAY_APP_CSOC](https://github.com/xcalibur-22/BIRTHDAY_APP_CSOC) [APK](https://drive.google.com/drive/folders/17eTEQPWfa3TQzeDnR3axtW35ff6dn9s2?usp=sharing) 
