@@ -104,3 +104,12 @@ Or if you like watching and learning:
 [https://www.youtube.com/watch?v=8yJKWy9G9ew](https://www.youtube.com/watch?v=8yJKWy9G9ew)
 
 ## Submissions
+Name: Bhav Khurana
+
+Roll No: 21075022
+
+Email: bhav.khurana.cse21@itbhu.ac.in
+
+[Repo Link](https://github.com/bhav-khurana/Birthday-App)
+
+[Apk Link](https://drive.google.com/file/d/1cDKCR3FCy8HkLmuXbOMHNsG3UfNbTodz/view?usp=sharing)
